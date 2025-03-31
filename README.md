@@ -1,4 +1,4 @@
-# Happy Birthday Ammar! 🎉
+# Happy Birthday Farwa! 🎉
 
 A beautiful birthday website with animations and interactive elements.
 
